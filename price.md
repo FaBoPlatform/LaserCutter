@@ -1,3 +1,5 @@
+# 主要レーザーカッターの価格表(海外)
+
 ## Epilog
 
 http://www.epiloglaser.com/
@@ -50,7 +52,7 @@ http://www.troteclaser.com/
 http://www.gccworld.com/
 台湾のメーカー。
 
-商品名|出力|サイズ|$価格|
+|商品名|出力|サイズ|$価格|
 |:--|:--|:--|:--|
 |LaserPro C180S|12W|460x305mm|約$8,500|
 |LaserPro C180|30W|460x305mm|約$12,300|
